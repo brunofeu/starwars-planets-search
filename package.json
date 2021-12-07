@@ -16,7 +16,7 @@
       "!src/index.js"
     ]
   },
-  "homepage": "https:\/\/brunofeu.github.io/starwars-planets-search",
+  "homepage": "https://brunofeu.github.io/starwars-planets-search",
 
   "scripts": {
     "predeploy": "npm run build",
