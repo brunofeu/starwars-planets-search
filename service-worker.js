@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starwars-planets-search/precache-manifest.b3988d0b83a8da17e26db340d71dafe7.js"
+  "/starwars-planets-search/precache-manifest.cb7252ea3551fc857cfc6291f35548cf.js"
 );
 
 self.addEventListener('message', (event) => {
